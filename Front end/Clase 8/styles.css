@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;400;700&display=swap');
+
+
+header {
+    background-attachment: fixed;
+    background-image: url(/img/banner.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+main {
+    background-attachment: scroll;
+    background-color: rgb(35, 34, 49);
+    background-image: url(/img/perfil.jpg);
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-size: 40%;
+    text-align: center;
+    font-size: 30px;
+}
+
+body{
+    background-color: rgb(35, 34, 49);
+}
+
+h1 {
+    color: whitesmoke;
+    font-family: 'Inconsolata', monospace;
+    font-size: 90px;
+    font-style: italic;
+    font-weight: 200;
+    text-align: center;
+}
+
+span{
+    color: whitesmoke;
+    font-family: 'Noto Serif', serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+}
+
+nav{
+    font-family: 'Inconsolata', monospace;
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+}
+
+footer {
+    background-color: rgb(35, 34, 49);
+    text-align: center;
+    font-size: 60px;
+}
