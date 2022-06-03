@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,400;0,700;1,100;1,400;1,700&display=swap');
+
+
+
+
+
+#top{
+    background-color: #222222;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    text-align: center;
+}
+
+#logo{
+    background-color: #F0A83E;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    text-decoration: none;
+   
+}
+
+ul{
+    text-decoration: none;
+    list-style-type: none;
+    line-height: 18px;
+}
+
+#sBanner{
+    background-image: url(/img/banner.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#pata{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+h2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+}
+
+#productos{
+    font-family: 'Roboto', Sans sans-serif;
+}
+
+footer{
+    background-color: #222222;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
