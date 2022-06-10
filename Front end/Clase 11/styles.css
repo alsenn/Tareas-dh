@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,400;0,700;1,100;1,400;1,700&display=swap');
 
-h1 {
+ h1 {
     background-color: #00669F;
     font-family: 'Roboto';
     font-size: 40px;
@@ -14,6 +14,7 @@ h1 {
     padding-right: 100%;
     padding-bottom: 26px;
     position: fixed;
+    z-index: 1000;
 }
 
 .descuento {
@@ -28,6 +29,7 @@ h1 {
     padding-bottom: 10px;
     padding-left: 10px;
     padding-right: 903px;
+
 }
 
 body {
